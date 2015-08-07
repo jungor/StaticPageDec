@@ -1,4 +1,4 @@
-# StaticPageDec
+# StaticPageDev
 利用grunt静态页面开发，无需安装浏览器插件，文件修改时可自动刷新浏览器
 
 ## 使用方法
